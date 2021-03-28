@@ -229,7 +229,7 @@ p {
     background-image: url("../img/sigmund.jpg");
     background-size: cover;
     background-position: top center;
-    background: relative;
+    position: relative;
     z-index: 1;
 }
 
